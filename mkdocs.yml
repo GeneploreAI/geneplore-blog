@@ -1,1 +1,28 @@
-site_name: My Docs
+site_name: Geneplore AI Blog
+theme:
+  name: material
+  logo: img/logo.png
+  favicon: img/favicon.png
+  font:
+    text: Roboto
+  palette:
+    primary: custom
+plugins:
+  - blog
+  - social:
+    cards_layout_options:
+        background_color: "#3d1c63"
+
+plugins:
+  - blog:
+      blog_dir: .
+      
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - attr_list
+
+extra_css:
+  - stylesheets/extra.css
