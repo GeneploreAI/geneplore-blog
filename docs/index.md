@@ -1,17 +1,3 @@
-# Welcome to MkDocs
+# Geneplore AI is building the easiest way to use AI with your community.
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
-
-## Commands
-
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+Here you will find a collection of articles, tutorials, and guides to help you get the most out of our AI tools and services. Whether you are new to AI or an experienced developer, we have something for everyone.
